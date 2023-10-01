@@ -11,7 +11,7 @@
     "rss": "https://forum.westeroscraft.com/forum/news.2/index.rss",
     "servers": [
         {
-            "id": "WesterosCraft-1.11.2",
+            "id": "UndeadZ-1.12.2",
             "name": "UndeadZ Production Server",
             "description": "MainUndeadZ server. Connect to enter the Realm.",
             "icon": "https://w7.pngwing.com/pngs/310/962/png-transparent-minecraft-pocket-edition-computer-servers-streaming-media-host-drawing-minecraft-server-icon-miscellaneous-blue-game-thumbnail.png",
@@ -20,20 +20,20 @@
             "minecraftVersion": "1.12.2",
             "discord": {
                 "shortId": "Production",
-                "largeImageText": "WesterosCraft Production Server",
+                "largeImageText": "UndeadZ Production Server",
                 "largeImageKey": "server-prod"
             },
             "mainServer": true,
             "autoconnect": true,
             "modules": [
                 {
-                    "id": "net.minecraftforge:forge:1.12.2-14.23.5.2860",
+                    "id": "net.minecraftforge:forge:1.12.2-14.23.5.2847",
                     "name": "Minecraft Forge",
                     "type": "ForgeHosted",
                     "artifact": {
-                        "size": 4450992,
-                        "MD5E": "3fcc9b0104f0261397d3cc897e55a1c5",
-                        "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.12.2-14.23.5.2860/forge-1.12.2-14.23.5.2860-universal.jar"
+                        "size": 4884700,
+                        "MD5": "90734a5a713e24902d24c45c15caa42c",
+                        "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/forge-1.12.2-14.23.5.2847-universal.jar"
                     }
                 }
             ]
